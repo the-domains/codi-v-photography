@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Codi V Photography]]></title>
         <description><![CDATA[Codi V Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/codi-v-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 07:07:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 07:12:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/codi-v-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/089fbce4-d8b7-40f1-a12b-7aa2302deb98.jpg">]]></description>
+            <link>https://thegrid.ai/codi-v-photography/fc12e644-98e8-4363-ae9b-6a6ac7b31ef6/index.html</link>
+            <guid isPermaLink="false">fc12e644-98e8-4363-ae9b-6a6ac7b31ef6</guid>
+            <pubDate>Thu, 21 Jul 2016 07:12:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abcdd219-6abc-44c3-9ade-bf82500a6b79.jpg">]]></description>
-            <link>undefined69990bf4-7198-44ac-860c-9eaec3be88d0/index.html</link>
+            <link>https://thegrid.ai/codi-v-photography/69990bf4-7198-44ac-860c-9eaec3be88d0/index.html</link>
             <guid isPermaLink="false">69990bf4-7198-44ac-860c-9eaec3be88d0</guid>
             <pubDate>Thu, 21 Jul 2016 07:06:24 GMT</pubDate>
         </item>
