@@ -1,0 +1,28 @@
+name: Codi V Photography
+favicon: null
+layout_spectrum: 0.5030224656220526
+typography_spectrum: 0.4850791522767395
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.0749733243137598
+  lightness: 0.7781985509209335
+  saturation: 0.9349251454696059
+  rhythmicContrast: 0.8444895390421152
+purpose: []
